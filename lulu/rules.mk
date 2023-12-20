@@ -1,0 +1,9 @@
+SPLIT_KEYBOARD    = yes
+NKRO_ENABLE       = yes
+ENCODER_ENABLE    = yes
+AUDIO_ENABLE      = no
+BOOTLOADER        = rp2040
+RGBLIGHT_ENABLE   = no
+OLED_ENABLE       = yes
+RGB_MATRIX_ENABLE = yes
+LEADER_ENABLE     = yes

@@ -1,0 +1,18 @@
+SRC += davidlee.c
+
+MOUSEKEY_ENABLE      = yes
+EXTRAKEY_ENABLE      = yes
+COMBO_ENABLE         = yes
+CAPS_WORD_ENABLE     = yes
+DYNAMIC_MACRO_ENABLE = yes
+KEY_LOCK_ENABLE      = yes
+DYNAMIC_TAPPING_TERM_ENABLE = yes
+AUDIO_ENABLE         = yes
+UNICODE_ENABLE       = no
+TAP_DANCE_ENABLE     = no
+MAGIC_ENABLE         = no
+BOOTMAGIC_ENABLE     = no
+CONSOLE_ENABLE       = no
+COMMAND_ENABLE       = no
+AUTO_SHIFT_ENABLE    = no
+PROGRAMMABLE_BUTTON_ENABLE = yes
